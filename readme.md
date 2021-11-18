@@ -7,7 +7,4 @@
 
 - It also can be run using "ATMProiect.exe"
 
-PIN:
-    1234
-    
-    4567
+- PIN: 1234, 4567
