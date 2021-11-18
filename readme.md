@@ -3,9 +3,9 @@
 - Se poate porni direct cu "ATMProiect.exe"
 
 
--The script can be run if the library cocos2d is downloaded using PIP.
+- The script can be run if the library cocos2d is downloaded using PIP.
 
--It also can be run using "ATMProiect.exe"
+- It also can be run using "ATMProiect.exe"
 
 PIN:
     1234
